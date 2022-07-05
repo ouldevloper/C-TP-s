@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514144174 source:e:\g1\tp4\exercice3\main.cpp
+	<iostream>
+
+1525693710 source:e:\g1\tp4\exercice3\compte.cpp
+	"Compte.h"
+
+1525693747 e:\g1\tp4\exercice3\compte.h
+	<string>
+	<iostream>
+

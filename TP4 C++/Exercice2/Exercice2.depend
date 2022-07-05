@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1525727133 source:e:\mouhcine rabi c++\tp5 c++ v1\exercice2\main.cpp
+	<iostream>
+	"Ligne_Polygonale.h"
+
+1525727084 source:e:\mouhcine rabi c++\tp5 c++ v1\exercice2\pt2d.cpp
+	<iostream>
+	<math.h>
+	"pt2d.h"
+
+1431884548 e:\mouhcine rabi c++\tp5 c++ v1\exercice2\pt2d.h
+	<iostream>
+
+1525727198 source:e:\mouhcine rabi c++\tp5 c++ v1\exercice2\ligne_polygonale.cpp
+	"Ligne_Polygonale.h"
+	<iomanip>
+
+1525726947 e:\mouhcine rabi c++\tp5 c++ v1\exercice2\ligne_polygonale.h
+	<iostream>
+	"pt2d.h"
+

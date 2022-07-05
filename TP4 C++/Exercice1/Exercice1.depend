@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1525911215 source:e:\g1\tp4\exercice1\main.cpp
+	<iostream>
+	"PT2D.h"
+	"Ligne_Polygone.h"
+
+1525795358 e:\g1\tp4\exercice1\pt2d.h
+	<iostream>
+
+1525688608 source:e:\g1\tp4\exercice1\pt2d.cpp
+	"PT2D.h"
+	"math.h"
+
+1525953080 source:e:\g1\tp4\exercice1\ligne_polygone.cpp
+	"Ligne_Polygone.h"
+
+1525911166 e:\g1\tp4\exercice1\ligne_polygone.h
+	"PT2D.h"
+

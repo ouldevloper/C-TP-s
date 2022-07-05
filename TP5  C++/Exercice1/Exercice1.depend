@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525906645 source:e:\g1\tp5 v1\exercice1\main.cpp
+	<iostream>
+	"Personne.h"
+
+1525906833 source:e:\g1\tp5 v1\exercice1\personne.cpp
+	"Personne.h"
+
+1525906677 e:\g1\tp5 v1\exercice1\personne.h
+	<string>
+	<iostream>
+
