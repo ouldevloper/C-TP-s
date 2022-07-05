@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522630290 source:e:\tp1c++\exercice3\main.cpp
+	<iostream>
+	"TabStatique.h"
+
+1522630321 e:\tp1c++\exercice3\tabstatique.h
+
+1522630053 source:e:\tp1c++\exercice3\tabstatique.cpp
+	<iostream>
+	"TabStatique.h"
+

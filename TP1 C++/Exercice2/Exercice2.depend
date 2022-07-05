@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522628633 source:e:\tp1c++\exercice2\main.cpp
+	<iostream>
+	"ConversionMetrePouce.h"
+
+1522628597 e:\tp1c++\exercice2\conversionmetrepouce.h
+
+1522628761 source:e:\tp1c++\exercice2\conversionmetrepouce.cpp
+	<iostream>
+	"ConversionMetrePouce.h"
+

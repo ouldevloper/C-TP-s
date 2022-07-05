@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522630645 source:e:\tp1c++\exercice5\main.cpp
+	<iostream>
+	"SurchargeFct.h"
+
+1522630648 e:\tp1c++\exercice5\surchargefct.h
+
+1522630830 source:e:\tp1c++\exercice5\surchargefct.cpp
+	<iostream>
+	"SurchargeFct.h"
+

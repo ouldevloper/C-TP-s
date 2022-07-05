@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522627102 source:e:\tp1c++\exercice1\nbpremier.cpp
+	"NbPremier.h"
+
+1522626758 e:\tp1c++\exercice1\nbpremier.h
+
+1522626869 source:e:\tp1c++\exercice1\main.cpp
+	<iostream>
+	"NbPremier.h"
+

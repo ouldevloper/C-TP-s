@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514144174 source:e:\g1\tp3 c++\exercice2\main.cpp
+	<iostream>
+
+1524484345 source:e:\g1\tp3 c++\exercice2\tetra.cpp
+	"Tetra.h"
+	"math.h"
+
+1524484337 e:\g1\tp3 c++\exercice2\tetra.h
+	<iostream>
+

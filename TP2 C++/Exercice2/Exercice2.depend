@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1523878368 source:e:\tp2 c++\exercice2\main.cpp
+	<iostream>
+	"PT3D.h"
+
+1523877655 e:\tp2 c++\exercice2\pt3d.h
+
+1523878368 source:e:\g1\tp2 c++\exercice2\main.cpp
+	<iostream>
+	"PT3D.h"
+
+1523966389 e:\g1\tp2 c++\exercice2\pt3d.h
+
+1523878424 source:e:\g1\tp2 c++\exercice2\pt3d.cpp
+	"PT3D.h"
+	<math.h>
+
